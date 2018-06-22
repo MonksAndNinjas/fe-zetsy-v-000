@@ -78,11 +78,11 @@ p a:hover {
 	float: left;
 	border: 5px solid rgb(204,204,204);
 	margin: 0 2px;
+	padding: 1px;
 }
 
 #press a:hover {
 	border: 5px solid rgb(111,127,122);
-	padding: 1px;
 }
 
 footer p {
