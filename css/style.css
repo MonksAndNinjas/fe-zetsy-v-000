@@ -50,8 +50,8 @@ a:link {
 }
 
 a:hover {
-	color: #1783bb;
 	text-decoration: none;
+	color: #1783bb;
 }
 
 html,body {
