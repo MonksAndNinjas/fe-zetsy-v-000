@@ -59,6 +59,7 @@ html,body {
 
 div.wrapper {
 	color: rgb(111,127,122);
+	height: 100%;
 }
 
 p {
