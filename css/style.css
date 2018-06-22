@@ -49,7 +49,7 @@ a:link {
 	text-decoration: none;
 }
 
-a:hover {
+header a:hover {
 	color: #1783bb;
 }
 
