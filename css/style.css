@@ -39,14 +39,14 @@ h1 {
 	margin: 32px 0 26px;
 }
 
-#press h2 {
-	font-size: 2em;
-	margin: 24px 0 26px;
-}
-
 a:link {
 	color: rgb(152,173,166);
 	text-decoration: none;
+}
+
+#press h2 {
+	font-size: 2em;
+	margin: 24px 0 26px;
 }
 
 html,body {
