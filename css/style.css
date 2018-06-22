@@ -54,7 +54,8 @@ a:hover {
 }
 
 html,body {
-	margin: 0 auto;
+	margin: 0;
+	height: 100%
 }
 
 div.wrapper {
