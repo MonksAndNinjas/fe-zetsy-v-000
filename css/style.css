@@ -33,6 +33,11 @@ h1 {
 	margin: 32px 0 26px;
 }
 
+#press h2 {
+	font-size: 2em;
+	margin: 28px 0 26px;
+}
+
 #necklace {
 	border: 5px solid rgb(152,173,166);
 	position: relative;
