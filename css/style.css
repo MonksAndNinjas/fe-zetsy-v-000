@@ -75,9 +75,9 @@ p a:hover {
 }
 
 #press img {
-	display: inline;
+	float: left;
 	border: 5px solid rgb(204,204,204);
-	margin: 0 1px;
+	margin: 0 2px;
 	padding: 1px;
 }
 
