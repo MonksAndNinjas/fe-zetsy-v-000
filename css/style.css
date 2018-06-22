@@ -77,4 +77,5 @@ p a:hover {
 #press a:link {
 	float: left;
 	border: 5px solid;
+	padding: 0 1px;
 }
