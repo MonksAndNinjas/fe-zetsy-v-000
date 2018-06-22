@@ -81,7 +81,7 @@ p a:hover {
 	padding: 1px;
 }
 
-#press img:hover {
+#press a:hover {
 	border: 5px solid rgb(111,127,122);
 }
 
