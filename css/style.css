@@ -69,3 +69,7 @@ p {
 p a:link {
 	color: rgb(33,132,185);
 }
+
+p a:hover {
+	text-decoration: underline;
+}
