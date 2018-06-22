@@ -11,6 +11,10 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
+html,body {
+	margin: 0;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -47,10 +51,6 @@ a:link {
 #press h2 {
 	font-size: 2em;
 	margin: 24px 0 26px;
-}
-
-html,body {
-	margin: 0;
 }
 
 div.wrapper {
