@@ -67,7 +67,7 @@ p {
 }
 
 p a:link {
-	color: aqua;
+	color: rbg(33,132,185);
 }
 
 p a:hover {
