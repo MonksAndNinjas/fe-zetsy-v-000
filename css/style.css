@@ -51,6 +51,7 @@ a:link {
 
 a:hover {
 	color: #1783bb;
+	text-decoration: none;
 }
 
 html,body {
